@@ -1,0 +1,5 @@
+country,total_surveyed,predicted_banked,inclusion_rate,top_barrier_1,top_barrier_2,top_barrier_3
+Uganda,901,287,31.9%,country_Uganda,age_x_education,inclusion_score
+Tanzania,2839,948,33.4%,country_Tanzania,cellphone_access,edu_x_mobile
+Rwanda,3745,1905,50.9%,inclusion_score,age_x_education,edu_x_mobile
+Kenya,2601,1903,73.2%,cellphone_access,inclusion_score,edu_x_mobile
