@@ -30,7 +30,7 @@ financial-inclusion-africa-ml-zindi/
 ### 1. Clone repository
 ```bash
 git clone https://github.com/Avni1410/Machine_learning_cp.git
-cd finaccess-ai
+cd Machine_learning_cp
 
 2. Create virtual environment
 
